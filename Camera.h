@@ -10,6 +10,7 @@
 #define CAMERA
 
 #include "SFML/Graphics.hpp" 
+#include <string>
 
 
 
@@ -17,6 +18,9 @@
 class Camera {
   
   private:
+        //plaque decryptee au format texte
+    string plaqueDetecte;
+  
     
 
   public :
