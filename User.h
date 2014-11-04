@@ -9,7 +9,7 @@
 #ifndef USER
 #define USER
 
-#include "SFML/Graphics.hpp" 
+#include "<string>
 
 
 
