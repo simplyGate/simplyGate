@@ -17,6 +17,10 @@
 class User {
   
   private:
+        //identifiant
+    string iD;
+        //mot de passe
+    string mdp;
 
     
   public :
