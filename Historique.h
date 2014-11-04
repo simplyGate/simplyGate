@@ -10,6 +10,7 @@
 #define HISTORIQUE
 
 #include "SFML/Graphics.hpp" 
+#include <string>
 
 
 
