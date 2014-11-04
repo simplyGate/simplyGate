@@ -22,6 +22,7 @@ class Image {
     int _blue;
 
   public :
+                //constructeur
     Image(int r, int g, int b) : _red(r), _green(g), _blue(b) {}
                 
                 //accesseurs
