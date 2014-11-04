@@ -18,7 +18,11 @@
 class Historique {
   
   private:
-    
+    int jour
+    int mois
+    int heure
+    int minute
+    string plaque
 
     
   public :
