@@ -15,6 +15,8 @@
 class Portail {
   
   private:
+        //état courant du portail
+    bool etat_portail;
     
 
   public :
